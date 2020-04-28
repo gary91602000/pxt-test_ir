@@ -1,0 +1,16 @@
+{
+    "name": "IR",
+    "version": "0.0.3",
+    "description": "Copyright belongs to lioujj/pxt-IR",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/IR-strings.json",
+        "_locales/de/IR-strings.json"
+    ],
+    "public": true
+}
